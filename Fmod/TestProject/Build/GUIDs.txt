@@ -2,8 +2,13 @@
 {aa0b3287-947f-0157-08c9-e0539e7d9957} bank:/Master.strings
 {59e2bfd2-78b9-47a2-8c17-b42f00e19a9e} bank:/Music
 {3e108175-3982-4802-82ea-175411cd9037} bank:/Sounds
+{1e3436e3-c18d-4299-bacf-ab9d41382b52} bank:/UI
 {a5e6b4a3-e8c3-4703-ac72-fd95b2380cfa} bus:/
 {3d8d4d35-bf92-4e80-9490-9e389efa583d} bus:/Reverb
 {3cd6be3c-a42e-483d-aa0f-6d1e593ea610} event:/music/music
+{135ddcbd-92e1-43a6-98e1-67e4830a5add} event:/sfx/UI/ui_button
+{4b19f6e6-12a4-430a-8a06-88cd411e8e01} event:/sfx/UI/ui_click
+{87e0ad5d-489b-4886-80d4-b140167c7fb4} event:/sfx/UI/ui_window_close
+{4733c178-fe2f-43fd-8a68-b887c93121ae} event:/sfx/UI/ui_window_open
 {6a85e147-76d8-428f-8bb9-3d92f4c05e11} event:/sfx/amb
 {6367abec-0cf6-497b-b4ce-d63d8acb6144} event:/sfx/weapon_shoot
