@@ -1,0 +1,10 @@
+{32161253-e504-4d15-8e80-6aad6f8e9fcf} bank:/Master
+{aa0b3287-947f-0157-08c9-e0539e7d9957} bank:/Master.strings
+{59e2bfd2-78b9-47a2-8c17-b42f00e19a9e} bank:/Music
+{2e17a7ee-9a7e-492e-b1a6-c0acdb6f1351} bank:/sfx
+{a5e6b4a3-e8c3-4703-ac72-fd95b2380cfa} bus:/
+{3d8d4d35-bf92-4e80-9490-9e389efa583d} bus:/Reverb
+{3cd6be3c-a42e-483d-aa0f-6d1e593ea610} event:/music/music
+{6a85e147-76d8-428f-8bb9-3d92f4c05e11} event:/sfx/amb
+{7db59c42-7437-4555-ab9d-8387733fcd6b} event:/sfx/ui_click
+{6367abec-0cf6-497b-b4ce-d63d8acb6144} event:/sfx/weapon_shoot
