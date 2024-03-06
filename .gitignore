@@ -23,7 +23,4 @@ fmod_editor.log
 # FMOD 1.10.x (Legacy)
 /Assets/FMODAssets/*
 /Assets/FMODStudioCache.meta
-Fmod/TestProject/.unsaved/
-Fmod/TestProject/.user/
-Fmod/TestProject/.cache/
-Fmod/TestProject/.user/Metadata/Workspace.user.xml
+
